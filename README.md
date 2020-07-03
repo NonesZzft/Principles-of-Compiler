@@ -3,6 +3,7 @@ This is a C- Lexical and Syntax Analyzer which is the curriculum project of Proj
 Implemented C- Syntax Analyzer by using C++. Removed the left recursion of grammar first, made analysis through top-down and built an Abstract Syntax Tree coded from C-.
 
 For lexical analyzer, here is the DFA.
+![relation](https://github.com/NonesZzft/Principles-of-Compiler/blob/master/DFA.png)
 
 For syntax analyzer, here is the BCNF grammar, 29 productions.
 
