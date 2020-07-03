@@ -1,0 +1,85 @@
+reserved word: int
+ID, name = gcd
+(
+reserved word: int
+ID, name = u
+,
+reserved word: int
+ID, name = v
+)
+{
+reserved word: if
+(
+ID, name = v
+==
+NUM, val = 0
+)
+ID, name = reutrn
+ID, name = u
+;
+reserved word: else
+reserved word: return
+ID, name = gcd
+(
+ID, name = v
+,
+ID, name = u
+-
+ID, name = u
+/
+ID, name = v
+*
+ID, name = v
+)
+;
+reserved word: int
+ID, name = x
+;
+reserved word: double
+ID, name = temp
+;
+reserved word: int
+ID, name = a
+[
+NUM, val = 100
+]
+;
+ID, name = temp
+=
+NUM, val = 1.1
+;
+reserved word: for
+(
+ID, name = i
+=
+NUM, val = 1
+;
+ID, name = i
+<=
+NUM, val = 1
+;
+)
+{
+ID, name = a
+=
+ID, name = b
+;
+}
+reserved word: while
+(
+ID, name = y
+>
+ID, name = x
+)
+{
+ID, name = y
+=
+ID, name = y
++
+NUM, val = 1
+;
+}
+reserved word: return
+NUM, val = 0
+;
+}
