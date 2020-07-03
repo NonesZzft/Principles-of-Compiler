@@ -2,6 +2,8 @@ This is a C- Lexical and Syntax Analyzer which is the curriculum project of Proj
 
 Implemented C- Syntax Analyzer by using C++. Removed the left recursion of grammar first, made analysis through top-down and built an Abstract Syntax Tree coded from C-.
 
+The code to implement it is in compiler file. The /report/2015141462312_赵文腾_《编译原理课程设计》课程报告.doc shows how to realize compiler syntax.
+
 For lexical analyzer, here is the DFA.
 ![relation](https://github.com/NonesZzft/Principles-of-Compiler/blob/master/DFA.png)
 
