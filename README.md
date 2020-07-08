@@ -1,4 +1,4 @@
-This is a C- Lexical and Syntax Analyzer which is the curriculum project of Projects in Principles of Complier.
+This is a C- Lexical and Syntax Analyzer which is the curriculum project of Principles of Complier.
 
 Implemented C- Syntax Analyzer by using C++. Removed the left recursion of grammar first, made analysis through top-down and built an Abstract Syntax Tree coded from C-.
 
